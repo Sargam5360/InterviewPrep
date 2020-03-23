@@ -4,7 +4,7 @@
 
 ### 1. Customer Obsession
 Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers. 
-Erica App
+Erica App, Excalibur App.
 Situation: 
 
 Task: Developer
@@ -18,44 +18,44 @@ Leaders are owners. They think long term and don't sacrifice long-term value for
 
 Situation: Tableau Platform
 
-Task:
+Task: Short timespan.
 
-Action:
+Action:  Hire correct candidate. Undergo training. Prototype, client meetings to come up with a solution, demoing.
 
-Result:
+Result: Visualization platform was delivered to the client. Daily reports were sent to the stakeholders. It helped mitigate future events or risks and classify them as low risk, not important.
 
 ### 3. Invent and Simplify
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by "not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
 
 Situation:  Innovation center
 
-Task:
+Task:  My task was to come up with a platform. 
 
-Action:
+Action:My task was to interview the senior leaders for the requirements, SWOT analysis, negotiate with the vendors. In a span of 15 days, we came up with an online portal. I hosted an innauguration ceremony. 
 
-Result:
+Result: We held 3 main campaings with 3 themes. We held campaigns on a quarterly basis. Good reviews from the CEO of the company. Presentation competition winner.
 
 ### 4. Are Right, A lot
 Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
 Situation: Defect Resolution
 
-Task:
+Task: JIRA
 
-Action:
+Action: Code analysis, root cause analysis, validation, testing, 
 
-Result:
+Result: The deployment process was smooth. Highly reputed project.
 
 ### 5. Learn and be Curious
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 
 Situation: Solutions Architect
 
-Task:
+Task: Get the knowledge to pass the certificate.
 
-Action:
+Action: Underwent online training from codeguru, appeard for the test.
 
-Result:
+Result: Cleared with flying colors.
 
 ### 6. Hire and develop the best
 Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
@@ -65,24 +65,24 @@ Best Companies
 ### 7. Insist on the highest standards
 Leaders have relentlessly high standards -; many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-Situaion: Testing Suit
+Situaion: Testing Suit, 200 defects. Repeated defects, invalid defects. ERICA
 
-Task:
+Task: 
 
-Action:
+Action: Seminar, expert talks, alloted hours for the same, tutorial on the new framework, testing culture, presentations, new tools designed.
 
-Result:
+Result: New wave, awareness was created, lower defects, saved costs by a whooping 66%.
 
 ### 8. Think Big
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
 Situation:    Tableau  RCCL Data Analysis
 
-Task:
+Task: AI CHat bot for internal use
 
-Action:
+Action: Innovative design.
 
-Result:
+Result: ERICA platform was leveraged to deliver more, reused, cost effective, highly efficient. 25+ internal teams use the platform, ease of deployment through SLACK, other companies are taking a look into it. 
 
 ### 9. Bias For Action
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
